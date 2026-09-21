@@ -37,5 +37,5 @@ This project focuses on importing, transforming and analysing Shopify stock data
 
 ### Files
 
-- `WEEK 3.docx` – Detailed report with screenshots and explanations
+- `WEEK 3 Report.pdf` – Detailed report with screenshots and explanations
 - `Stock Market Dashboard.pdf` – Exported Power BI dashboard
