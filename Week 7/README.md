@@ -144,8 +144,7 @@ The data model contains the following tables:
 
 ##  Files
 
-- `WEEK 7.docx` – Week 7 assignment report with screenshots.
-- `Student Performance.pbix` – Power BI project file.
+- `WEEK 7 - Sai Shruti B.pdf` – Week 7 assignment report with screenshots.
 
 ##  Outcome
 
